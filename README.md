@@ -558,9 +558,16 @@ The following SQL queries were used to address specific questions:
 
 ## Conclusion
 
+
  This project demonstrates how SQL can be used to build and manage a functional library database system. It highlights practical database design, data manipulation, and analytical querying skills commonly used in real-world data and database management tasks.
 
+## Author
+ **Ammara Sajjad**
+ Aspiring Data Analyst| Economics Graduate
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 
 Thank you for your interest in this project!
+
 
